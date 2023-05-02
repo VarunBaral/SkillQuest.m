@@ -1,0 +1,575 @@
+.frameChild,
+.frameItem {
+  position: absolute;
+  top: 0;
+  left: 205px;
+  background-color: var(--color-mistyrose);
+  width: 1235px;
+  height: 116px;
+}
+.frameItem {
+  left: 0;
+  width: 205px;
+  height: 120px;
+}
+.screenshot20230425At1047 {
+  position: absolute;
+  top: 9px;
+  left: 3px;
+  width: 202px;
+  height: 103px;
+  object-fit: cover;
+}
+.about {
+  position: absolute;
+  top: 46px;
+  left: 1054px;
+  display: inline-block;
+  width: 348px;
+  height: 57px;
+}
+.frameInner {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-black);
+  position: absolute;
+  top: 21px;
+  left: 1183px;
+  border-radius: var(--br-15xl-5);
+  width: 219px;
+  height: 69px;
+}
+.accessCourses,
+.rectangleParent {
+  position: absolute;
+  text-align: left;
+}
+.accessCourses {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 35px;
+  left: 1209px;
+  font-size: 22.94px;
+  font-weight: 300;
+  font-family: var(--font-roboto);
+  color: var(--color-white);
+  display: inline-block;
+  width: 167px;
+  height: 32px;
+}
+.rectangleParent {
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 112px;
+  overflow: hidden;
+  font-size: var(--font-size-5xl);
+  color: var(--color-black);
+}
+.pythonChild,
+.pythonChild1,
+.pythonInner,
+.pythonItem,
+.rectangleDiv {
+  position: absolute;
+  top: 314px;
+  left: 87px;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-gray-100);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 380px;
+  height: 334px;
+}
+.pythonChild1,
+.pythonInner,
+.pythonItem,
+.rectangleDiv {
+  top: 706px;
+  left: 82px;
+}
+.pythonChild1,
+.pythonInner,
+.rectangleDiv {
+  left: 560px;
+}
+.pythonChild1,
+.rectangleDiv {
+  top: 314px;
+}
+.pythonChild1 {
+  left: 1022px;
+}
+.frameChild1 {
+  position: absolute;
+  top: 0;
+  left: -1px;
+  background-color: var(--color-dodgerblue);
+  width: 211px;
+  height: 40px;
+}
+.watch {
+  position: absolute;
+  top: 9px;
+  left: 76px;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-roboto);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  width: 186px;
+  height: 21px;
+}
+.frameButton,
+.rectangleContainer,
+.rectangleGroup,
+.rectangleParent1,
+.rectangleParent2 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 575px;
+  left: 173px;
+  width: 210px;
+  height: 40px;
+  overflow: hidden;
+}
+.frameButton,
+.rectangleContainer,
+.rectangleParent1,
+.rectangleParent2 {
+  left: 645px;
+}
+.frameButton,
+.rectangleParent1,
+.rectangleParent2 {
+  top: 966px;
+}
+.rectangleParent1,
+.rectangleParent2 {
+  left: 173px;
+}
+.rectangleParent2 {
+  top: 575px;
+  left: 1117px;
+}
+.screenshot20230427At1014 {
+  position: absolute;
+  top: 314px;
+  left: 87px;
+  border-radius: var(--br-21xl);
+  width: 380px;
+  height: 190px;
+  object-fit: cover;
+}
+.pythonForEverybody {
+  margin: 0;
+}
+.pythonForEverybodyContainer {
+  position: absolute;
+  top: 509px;
+  left: 86px;
+  display: inline-block;
+  width: 376px;
+  height: 61px;
+}
+.byFreecodecamporg,
+.byFreecodecamporg1 {
+  position: absolute;
+  top: 549px;
+  left: 181px;
+  font-weight: 300;
+  text-align: left;
+  display: inline-block;
+  width: 338px;
+  height: 26px;
+}
+.byFreecodecamporg1 {
+  top: 940px;
+  left: 182px;
+}
+.screenshot20230427At1013 {
+  position: absolute;
+  top: 314px;
+  left: 560px;
+  border-radius: var(--br-22xl);
+  width: 380px;
+  height: 195px;
+  object-fit: cover;
+}
+.byFreecodecamporg2,
+.pythonForBeginnersContainer {
+  position: absolute;
+  top: 516px;
+  left: 421px;
+  display: inline-block;
+  width: 670px;
+  height: 68px;
+}
+.byFreecodecamporg2 {
+  top: 544px;
+  left: 580px;
+  font-size: var(--font-size-xl);
+  font-weight: 300;
+  width: 344px;
+  height: 46px;
+}
+.screenshot20230427At10131 {
+  position: absolute;
+  top: 314px;
+  left: 1022px;
+  border-radius: var(--br-21xl);
+  width: 380px;
+  height: 190px;
+  object-fit: cover;
+}
+.pythonForBeginnersplaylist {
+  position: absolute;
+  top: 516px;
+  left: 1017px;
+  font-size: var(--font-size-xl);
+  display: inline-block;
+  width: 390px;
+  height: 43px;
+}
+.byMicrosoftDeveloper {
+  position: absolute;
+  top: 545px;
+  left: 1097px;
+  font-weight: 300;
+  display: inline-block;
+  width: 247px;
+  height: 34px;
+}
+.screenshot20230427At1012 {
+  position: absolute;
+  top: 706px;
+  left: 82px;
+  border-radius: var(--br-22xl);
+  width: 380px;
+  height: 190px;
+  object-fit: cover;
+}
+.learnPython {
+  position: absolute;
+  top: 896px;
+  left: 82px;
+  display: inline-block;
+  width: 380px;
+  height: 92px;
+}
+.screenshot20230427At10121 {
+  position: absolute;
+  top: 706px;
+  left: 560px;
+  border-radius: var(--br-20xl);
+  width: 380px;
+  height: 190px;
+  object-fit: cover;
+}
+.allCategories,
+.pythonTutorialContainer {
+  position: absolute;
+  top: 904px;
+  left: 560px;
+  display: inline-block;
+  width: 380px;
+  height: 89px;
+}
+.allCategories {
+  top: 3px;
+  left: 564px;
+  font-weight: 300;
+  width: 330px;
+  height: 30px;
+}
+.frameChild6,
+.frameChild7,
+.frameChild8,
+.frameChild9,
+.rectangleButton {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-gainsboro);
+  position: absolute;
+  top: 102px;
+  left: 37px;
+  border-radius: var(--br-mid);
+  width: 134px;
+  height: 34px;
+}
+.frameChild6,
+.frameChild7,
+.frameChild8,
+.frameChild9 {
+  left: 202px;
+  width: 259px;
+}
+.frameChild7,
+.frameChild8,
+.frameChild9 {
+  left: 490px;
+  width: 279px;
+}
+.frameChild8,
+.frameChild9 {
+  top: 45px;
+  left: 692px;
+  width: 377px;
+}
+.frameChild9 {
+  left: 1103px;
+  width: 187px;
+}
+.buildingYourOwnContainer,
+.promptEngineering,
+.publicSpeaking,
+.sales,
+.sendingColdEmailsContainer {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 50px;
+  left: 1130px;
+  font-size: var(--font-size-xl);
+  font-weight: 300;
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 144px;
+  height: 24px;
+}
+.buildingYourOwnContainer,
+.promptEngineering,
+.sales,
+.sendingColdEmailsContainer {
+  top: 108px;
+  left: 85px;
+  width: 53px;
+  height: 28px;
+}
+.buildingYourOwnContainer,
+.promptEngineering,
+.sendingColdEmailsContainer {
+  top: 107px;
+  left: 539px;
+  width: 208px;
+  height: 19px;
+}
+.buildingYourOwnContainer,
+.sendingColdEmailsContainer {
+  top: 108px;
+  left: 242px;
+  width: 194px;
+  height: 18px;
+}
+.buildingYourOwnContainer {
+  top: 50px;
+  left: 732px;
+  width: 315px;
+  height: 24px;
+}
+.frameChild10 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mid);
+  background-color: var(--color-gainsboro);
+  width: 130px;
+  height: 34px;
+}
+.excel {
+  position: absolute;
+  top: 5px;
+  left: 38px;
+  font-size: var(--font-size-xl);
+  font-weight: 300;
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 90px;
+  height: 28px;
+}
+.rectangleParent3 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 45px;
+  left: 539px;
+  width: 130px;
+  height: 34px;
+  overflow: hidden;
+}
+.frameChild11 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mid);
+  background-color: var(--color-gainsboro);
+  width: 248px;
+  height: 34px;
+}
+.webDevelopment {
+  position: absolute;
+  top: 5px;
+  left: 41px;
+  font-size: var(--font-size-xl);
+  font-weight: 300;
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 207px;
+  height: 45px;
+}
+.rectangleParent4 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 45px;
+  left: 41px;
+  width: 248px;
+  height: 33px;
+  overflow: hidden;
+}
+.frameChild12 {
+  position: absolute;
+  top: 44px;
+  left: 315px;
+  border-radius: var(--br-mid);
+  background-color: var(--color-gainsboro);
+  width: 184px;
+  height: 34px;
+}
+.python1 {
+  position: absolute;
+  top: 5px;
+  left: 59px;
+  font-size: var(--font-size-xl);
+  font-weight: 300;
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 154px;
+  height: 29px;
+}
+.pythonWrapper {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 44px;
+  left: 315px;
+  width: 184px;
+  height: 34px;
+  overflow: hidden;
+}
+.rectangleIcon {
+  position: absolute;
+  top: 102px;
+  left: 810px;
+  border-radius: var(--br-mid);
+  width: 295px;
+  height: 34px;
+}
+.peopleManagement {
+  position: absolute;
+  top: 8px;
+  left: 55px;
+  font-size: var(--font-size-xl);
+  font-weight: 300;
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 220px;
+  height: 29px;
+}
+.peopleManagementWrapper {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 102px;
+  left: 811px;
+  width: 292px;
+  height: 34px;
+  overflow: hidden;
+}
+.frameChild13 {
+  position: absolute;
+  top: 1px;
+  left: 1px;
+  border-radius: var(--br-mid);
+  width: 151px;
+  height: 34px;
+}
+.uiux {
+  position: absolute;
+  top: 5px;
+  left: 48px;
+  font-size: var(--font-size-xl);
+  font-weight: 300;
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 64px;
+  height: 26px;
+}
+.vectorParent {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 101px;
+  left: 1138px;
+  width: 152px;
+  height: 35px;
+  overflow: hidden;
+}
+.allCategoriesParent,
+.frameDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1319px;
+  height: 151px;
+  overflow: hidden;
+}
+.frameDiv {
+  top: 132px;
+  left: 82px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+}
+.python {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1115px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-lgi);
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}

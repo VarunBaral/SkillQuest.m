@@ -1,0 +1,808 @@
+.frameChild,
+.frameItem {
+  position: absolute;
+  top: 0;
+  left: 205px;
+  background-color: var(--color-mistyrose);
+  width: 1235px;
+  height: 116px;
+}
+.frameItem {
+  left: 0;
+  width: 205px;
+  height: 120px;
+}
+.screenshot20230425At1047 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 9px;
+  left: 3px;
+  width: 202px;
+  height: 103px;
+  background-image: url(/screenshot-20230425-at-1047-1@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.about {
+  position: absolute;
+  top: 46px;
+  left: 1054px;
+  display: inline-block;
+  width: 348px;
+  height: 57px;
+}
+.rectangleParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 112px;
+  overflow: hidden;
+  font-size: var(--font-size-5xl);
+}
+.byIshanSharma {
+  position: absolute;
+  top: 1414px;
+  left: 1155px;
+  font-weight: 300;
+  color: var(--color-white);
+  display: inline-block;
+  width: 318px;
+  height: 17px;
+}
+.blankLine {
+  margin: 0;
+}
+.allCategories {
+  position: absolute;
+  top: 3px;
+  left: 564px;
+  font-weight: 300;
+  display: inline-block;
+  width: 330px;
+  height: 30px;
+}
+.frameChild1,
+.frameChild2,
+.frameChild3,
+.frameInner,
+.rectangleButton {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-gainsboro);
+  position: absolute;
+  top: 102px;
+  left: 37px;
+  border-radius: var(--br-mid);
+  width: 134px;
+  height: 34px;
+}
+.frameChild1,
+.frameChild2,
+.frameChild3,
+.rectangleButton {
+  left: 202px;
+  width: 259px;
+}
+.frameChild1,
+.frameChild2,
+.frameChild3 {
+  left: 490px;
+  width: 279px;
+}
+.frameChild2,
+.frameChild3 {
+  top: 45px;
+  left: 692px;
+  width: 377px;
+}
+.frameChild3 {
+  left: 1103px;
+  width: 187px;
+}
+.buildingYourOwnContainer,
+.promptEngineering,
+.publicSpeaking,
+.sales,
+.sendingColdEmailsContainer {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 50px;
+  left: 1130px;
+  font-size: var(--font-size-xl);
+  font-weight: 300;
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 144px;
+  height: 24px;
+}
+.buildingYourOwnContainer,
+.promptEngineering,
+.sales,
+.sendingColdEmailsContainer {
+  top: 108px;
+  left: 85px;
+  width: 53px;
+  height: 28px;
+}
+.buildingYourOwnContainer,
+.promptEngineering,
+.sendingColdEmailsContainer {
+  top: 107px;
+  left: 539px;
+  width: 208px;
+  height: 19px;
+}
+.buildingYourOwnContainer,
+.sendingColdEmailsContainer {
+  top: 108px;
+  left: 242px;
+  width: 194px;
+  height: 18px;
+}
+.buildingYourOwnContainer {
+  top: 50px;
+  left: 732px;
+  width: 315px;
+  height: 24px;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mid);
+  background-color: var(--color-gainsboro);
+  width: 130px;
+  height: 34px;
+}
+.excel {
+  position: absolute;
+  top: 5px;
+  left: 38px;
+  font-size: var(--font-size-xl);
+  font-weight: 300;
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 90px;
+  height: 28px;
+}
+.rectangleGroup {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 45px;
+  left: 539px;
+  width: 130px;
+  height: 34px;
+  overflow: hidden;
+}
+.frameChild4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mid);
+  background-color: var(--color-gainsboro);
+  width: 248px;
+  height: 34px;
+}
+.webDevelopment {
+  position: absolute;
+  top: 5px;
+  left: 41px;
+  font-size: var(--font-size-xl);
+  font-weight: 300;
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 207px;
+  height: 45px;
+}
+.rectangleContainer {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 45px;
+  left: 41px;
+  width: 248px;
+  height: 33px;
+  overflow: hidden;
+}
+.frameChild5 {
+  position: absolute;
+  top: 44px;
+  left: 315px;
+  border-radius: var(--br-mid);
+  background-color: var(--color-gainsboro);
+  width: 184px;
+  height: 34px;
+}
+.python {
+  position: absolute;
+  top: 5px;
+  left: 59px;
+  font-size: var(--font-size-xl);
+  font-weight: 300;
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 154px;
+  height: 29px;
+}
+.pythonWrapper {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 44px;
+  left: 315px;
+  width: 184px;
+  height: 34px;
+  overflow: hidden;
+}
+.rectangleIcon {
+  position: absolute;
+  top: 102px;
+  left: 810px;
+  border-radius: var(--br-mid);
+  width: 295px;
+  height: 34px;
+}
+.peopleManagement {
+  position: absolute;
+  top: 8px;
+  left: 55px;
+  font-size: var(--font-size-xl);
+  font-weight: 300;
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 220px;
+  height: 29px;
+}
+.peopleManagementWrapper {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 102px;
+  left: 811px;
+  width: 292px;
+  height: 34px;
+  overflow: hidden;
+}
+.frameChild6 {
+  position: absolute;
+  top: 1px;
+  left: 1px;
+  border-radius: var(--br-mid);
+  width: 151px;
+  height: 34px;
+}
+.uiux {
+  position: absolute;
+  top: 5px;
+  left: 48px;
+  font-size: var(--font-size-xl);
+  font-weight: 300;
+  font-family: var(--font-roboto);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 64px;
+  height: 26px;
+}
+.vectorParent {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 101px;
+  left: 1138px;
+  width: 152px;
+  height: 35px;
+  overflow: hidden;
+}
+.allCategoriesParent {
+  position: absolute;
+  top: 127px;
+  left: 89px;
+  width: 1319px;
+  height: 151px;
+  overflow: hidden;
+}
+.frameChild7 {
+  top: 26px;
+  left: 13px;
+  background-color: var(--color-gray-100);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  height: 334px;
+}
+.frameChild10,
+.frameChild7,
+.frameChild8,
+.frameChild9 {
+  position: absolute;
+  border-radius: var(--br-21xl);
+  width: 380px;
+}
+.frameChild8 {
+  top: 429px;
+  left: 9px;
+  background-color: var(--color-gray-100);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  height: 334px;
+}
+.frameChild10,
+.frameChild9 {
+  top: 832px;
+}
+.frameChild9 {
+  left: 9px;
+  background-color: var(--color-gray-100);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  height: 334px;
+}
+.frameChild10 {
+  left: 486px;
+}
+.frameChild10,
+.frameChild11,
+.frameChild12,
+.frameChild13 {
+  background-color: var(--color-gray-100);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  height: 334px;
+}
+.frameChild11 {
+  position: absolute;
+  top: 832px;
+  left: 964px;
+  border-radius: var(--br-21xl);
+  width: 380px;
+}
+.frameChild12,
+.frameChild13 {
+  top: 26px;
+}
+.frameChild12 {
+  position: absolute;
+  left: 486px;
+  border-radius: var(--br-21xl);
+  width: 380px;
+}
+.frameChild13 {
+  left: 959px;
+}
+.frameChild13,
+.frameChild14,
+.screenshot20230426At607 {
+  position: absolute;
+  border-radius: var(--br-21xl);
+  width: 380px;
+}
+.frameChild14 {
+  top: 429px;
+  left: 964px;
+  background-color: var(--color-gray-100);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  height: 334px;
+}
+.screenshot20230426At607 {
+  top: 26px;
+  left: 13px;
+  height: 194px;
+  object-fit: cover;
+}
+.bySimonSinek,
+.findYourWhy {
+  position: absolute;
+  top: 233px;
+  left: 71px;
+  display: inline-block;
+  width: 286px;
+  height: 44px;
+}
+.bySimonSinek {
+  top: 259px;
+  left: 136px;
+  font-weight: 300;
+  width: 211px;
+  height: 21px;
+}
+.screenshot20230426At609 {
+  position: absolute;
+  top: 26px;
+  left: 486px;
+  border-radius: var(--br-23xl);
+  width: 380px;
+  height: 194px;
+  object-fit: cover;
+}
+.byValuetainment,
+.whoGetsThe {
+  position: absolute;
+  top: 233px;
+  left: 526px;
+  display: inline-block;
+  text-align: center;
+  width: 315px;
+  height: 30px;
+}
+.byValuetainment {
+  top: 259px;
+  left: 561px;
+  font-weight: 300;
+  width: 245px;
+  height: 26px;
+}
+.screenshot20230426At606 {
+  position: absolute;
+  top: 26px;
+  left: 959px;
+  border-radius: var(--br-20xl);
+  width: 378.51px;
+  height: 194px;
+  object-fit: cover;
+}
+.byJayShetty,
+.ifYouFeel {
+  position: absolute;
+  top: 224px;
+  left: 971px;
+  display: inline-block;
+  width: 362px;
+  height: 18px;
+}
+.byJayShetty {
+  top: 268px;
+  left: 1096px;
+  font-weight: 300;
+  width: 161px;
+  height: 23px;
+}
+.frameChild15 {
+  position: absolute;
+  top: 0;
+  left: -1px;
+  background-color: var(--color-dodgerblue);
+  width: 211px;
+  height: 40px;
+}
+.watch {
+  position: absolute;
+  top: 9px;
+  left: 76px;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-roboto);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  width: 186px;
+  height: 21px;
+}
+.frameButton,
+.rectangleParent1,
+.rectangleParent2,
+.rectangleParent3,
+.rectangleParent4,
+.rectangleParent5,
+.rectangleParent6,
+.rectangleParent7 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 293px;
+  left: 579px;
+  width: 210px;
+  height: 40px;
+  overflow: hidden;
+}
+.rectangleParent1,
+.rectangleParent2,
+.rectangleParent3,
+.rectangleParent4,
+.rectangleParent5,
+.rectangleParent6,
+.rectangleParent7 {
+  left: 100px;
+}
+.rectangleParent2,
+.rectangleParent3,
+.rectangleParent4,
+.rectangleParent5,
+.rectangleParent6,
+.rectangleParent7 {
+  top: 694px;
+}
+.rectangleParent3,
+.rectangleParent4,
+.rectangleParent5,
+.rectangleParent6,
+.rectangleParent7 {
+  top: 1097px;
+  left: 92px;
+}
+.rectangleParent4,
+.rectangleParent5,
+.rectangleParent6,
+.rectangleParent7 {
+  left: 571px;
+}
+.rectangleParent5,
+.rectangleParent6,
+.rectangleParent7 {
+  top: 1096px;
+  left: 1052px;
+}
+.rectangleParent6,
+.rectangleParent7 {
+  top: 693px;
+}
+.rectangleParent7 {
+  top: 293px;
+}
+.screenshot20230426At608 {
+  position: absolute;
+  top: 429px;
+  left: 9px;
+  border-radius: var(--br-20xl);
+  width: 380px;
+  height: 188.39px;
+  object-fit: cover;
+}
+.bySadhguru,
+.oneAsanaCan {
+  position: absolute;
+  top: 630px;
+  left: 49px;
+  display: inline-block;
+  width: 308px;
+  height: 33px;
+}
+.bySadhguru {
+  top: 657px;
+  left: 137px;
+  font-weight: 300;
+  width: 220px;
+  height: 25px;
+}
+.screenshot20230426At6081,
+.screenshot20230426At611 {
+  position: absolute;
+  top: 429px;
+  left: 964px;
+  border-radius: var(--br-23xl);
+  width: 380px;
+  height: 190.97px;
+  object-fit: cover;
+}
+.screenshot20230426At611 {
+  top: 832px;
+  left: 9px;
+  height: 190px;
+}
+.byTedEd,
+.tipsToBoostContainer {
+  position: absolute;
+  top: 1029px;
+  left: 65px;
+  display: inline-block;
+  width: 324px;
+  height: 38px;
+}
+.byTedEd {
+  top: 1058px;
+  left: 148px;
+  font-weight: 300;
+  width: 179px;
+  height: 17px;
+}
+.screenshot20230426At6061 {
+  position: absolute;
+  top: 832px;
+  left: 486px;
+  border-radius: var(--br-22xl);
+  width: 380px;
+  height: 190px;
+  object-fit: cover;
+}
+.theTruthAboutContainer {
+  position: absolute;
+  top: 1028px;
+  left: 498px;
+  font-size: var(--font-size-lgi);
+  display: inline-block;
+  width: 371px;
+  height: 46px;
+}
+.bySimonSinek1 {
+  position: absolute;
+  top: 1063px;
+  left: 606px;
+  font-weight: 300;
+  display: inline-block;
+  width: 225px;
+  height: 34px;
+}
+.screenshot20230426At610 {
+  position: absolute;
+  top: 832px;
+  left: 965px;
+  border-radius: var(--br-19xl);
+  width: 379px;
+  height: 190px;
+  object-fit: cover;
+}
+.byPowerfuljre,
+.highValueSkills,
+.sadhguruOnThe {
+  position: absolute;
+  display: inline-block;
+  text-align: center;
+}
+.highValueSkills {
+  top: 1027px;
+  left: 972px;
+  font-size: var(--font-size-lgi);
+  width: 366px;
+  height: 47px;
+}
+.byPowerfuljre,
+.sadhguruOnThe {
+  top: 620px;
+  left: 977px;
+  width: 365px;
+  height: 55px;
+}
+.byPowerfuljre {
+  top: 668px;
+  left: 1021px;
+  font-size: var(--font-size-lgi);
+  font-weight: 300;
+  width: 277px;
+  height: 13px;
+}
+.frameChild23 {
+  position: absolute;
+  top: 14px;
+  left: 11px;
+  border-radius: var(--br-21xl);
+  background-color: var(--color-gray-100);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 380px;
+  height: 334px;
+}
+.rectangleParent9 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 279px;
+  left: 97px;
+  width: 210px;
+  height: 40px;
+  overflow: hidden;
+}
+.screenshot20230426At6101 {
+  position: absolute;
+  top: 14px;
+  left: 11px;
+  border-radius: var(--br-23xl);
+  width: 380px;
+  height: 190px;
+  object-fit: cover;
+}
+.byTedxTalks,
+.howIOvercameContainer {
+  position: absolute;
+  top: 208px;
+  left: 43px;
+  display: inline-block;
+  width: 332px;
+  height: 48px;
+}
+.byTedxTalks {
+  top: 255px;
+  left: 138px;
+  font-weight: 300;
+  text-align: left;
+  width: 202px;
+  height: 29px;
+}
+.frameDiv,
+.rectangleParent8 {
+  position: absolute;
+  overflow: hidden;
+}
+.rectangleParent8 {
+  top: 415px;
+  left: 475px;
+  width: 391px;
+  height: 348px;
+  text-align: center;
+}
+.frameDiv {
+  top: 321px;
+  left: 50px;
+  width: 1365px;
+  height: 1166px;
+  color: var(--color-white);
+}
+.accessCourses,
+.frameChild25 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  position: absolute;
+}
+.frameChild25 {
+  background-color: var(--color-black);
+  top: 48px;
+  left: 30px;
+  border-radius: var(--br-15xl-5);
+  width: 219px;
+  height: 69px;
+}
+.accessCourses {
+  background-color: transparent;
+  top: 69px;
+  left: 61px;
+  font-size: 22.94px;
+  font-weight: 300;
+  font-family: var(--font-roboto);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  width: 167px;
+  height: 32px;
+}
+.rectangleParent10 {
+  position: absolute;
+  top: -33px;
+  left: 1166px;
+  width: 249px;
+  height: 117px;
+  overflow: hidden;
+}
+.secondPage {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 1608px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}
